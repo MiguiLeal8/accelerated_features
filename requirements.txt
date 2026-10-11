@@ -5,3 +5,4 @@ tqdm
 gdown
 
 matplotlib
+scikit-learn
